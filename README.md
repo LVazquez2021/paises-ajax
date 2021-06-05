@@ -7,3 +7,6 @@
 
 ## luego levantar el servidor con 
 `<nodemon start>`
+
+### y a navegar
+
